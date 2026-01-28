@@ -24,7 +24,7 @@ Aplikacja będzie dostępna pod adresem [http://localhost:5173](http://localhost
 ### 4. Uruchamianie testów E2E z UI
 
 ```bash
-npm run test:ui
+npm run test:e2e:ui
 ```
 
 ### 5. Uruchamianie testów jednostkowych i mock (Vitest UI)
